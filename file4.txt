@@ -1,10 +1,5 @@
-<<<<<<< HEAD
 new sample test for rebase 
 
 kunal checking rebase.
-=======
-new sample test for rebase
-|
 
-shiv checking rebase .
->>>>>>> 1f4be1f (shiv Rebase)
+heya kunal changes
