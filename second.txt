@@ -1,3 +1,8 @@
 my second file.
 
+<<<<<<< HEAD
 hey second file.
+=======
+
+changed second file on kunal
+>>>>>>> kunal
